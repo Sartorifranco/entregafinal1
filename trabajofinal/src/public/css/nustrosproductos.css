@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(175, 24, 24);
+    padding:0.01rem 0.01rem;
+    justify-content: center;
+    align-self: auto;
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+}
+.navbar a{
+    margin: auto;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 1em;
+    padding: 5px;
+    text-align: center;
+    float: right;
+    text-decoration: none;
+    color:white
+}
+
+.maquina{
+    padding-bottom: 25px;
+    padding-right: 105px;
+    padding-left: 25px;
+    padding-top: 25px;
+    float: right;
+}
+.p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.caja{
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 105px;
+    padding-top: 25px;
+    float: left;
+}
+
+.p1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+

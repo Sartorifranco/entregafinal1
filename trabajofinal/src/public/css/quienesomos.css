@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(175, 24, 24);
+    padding:0.01rem 0.01rem;
+    justify-content: center;
+    align-self: auto;
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+}
+.navbar a{
+    margin: auto;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 1em;
+    padding: 5px;
+    text-align: center;
+    float: right;
+    text-decoration: none;
+    color:white
+}
+.no{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.section{
+    background-color:rgb(170, 129, 129);
+}
+.parrafo{
+    margin-right:25px;
+    margin-left: 25px;
+    float: none;
+    font-size: 15px;
+    font-family: "Helvetica Neue",Helvetica
+}
+
+.footer{
+    text-align: center;
+    font-size:14px;
+}

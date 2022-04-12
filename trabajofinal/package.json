@@ -1,0 +1,32 @@
+{
+  "name": "prog.verano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "keywords": [],
+  "author": "franco sartori",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "heroku": "^7.60.1",
+    "morgan": "^1.10.0",
+    "node": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoBalsamo/trabajofinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrancoBalsamo/trabajofinal/issues"
+  },
+  "homepage": "https://github.com/FrancoBalsamo/trabajofinal#readme"
+}

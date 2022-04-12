@@ -1,0 +1,105 @@
+.header{
+        background-color: rgb(175, 24, 24);
+        padding:0.01rem 0.01rem;
+        justify-content: center;
+        align-self: auto;
+        text-align: center;
+        font-size: large;
+        font-style: normal;
+}
+
+.navbar a{
+    margin: auto;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 1em;
+    padding: 5px;
+    text-align: center;
+    float: right;
+    text-decoration: none;
+    color:white
+}
+
+.redes{
+    text-decoration: none;
+    
+}
+.imgsch{
+    float: none;
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+}
+.pro{
+    text-align: center;
+}
+.pro a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: none;
+    text-decoration: none;
+    color: rgb(175, 71, 53);
+}
+.listaprodu{
+    list-style: none
+}
+.listaprodu{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+.productos1{
+    float: none;
+    align-items: center;
+}
+.cont{
+    text-align: center;
+    padding-bottom: 25px;
+    float:none
+}
+.formulario{
+    margin:auto
+}
+.contacto{
+    padding-top: 20px;
+    box-sizing: border-box;
+    background-color:rgb(94, 34, 34);
+    border-radius: 20px;
+    margin: auto;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 1em;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    color:white
+}
+
+#Enviarboton{
+    background-color:rgb(245, 196, 196)
+}
+
+.email{
+    padding-right: 50px;
+}
+
+.textaca{
+    float: none;
+    padding-top: 50px;
+    text-align: center;
+    color:rgb(128, 51, 51);
+    text-shadow: brown;
+}
+.map{
+    float: none;
+    width: 100%;
+    border-radius: 50px;
+}
+.footer{
+    text-align: center;
+    font-size:14px;
+}
